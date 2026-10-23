@@ -61,5 +61,5 @@
 
 ## Структура проекта
 
-- `Card-Issuance-Analysis.ipynb` — подготовка данных, расчёты, аналитические таблицы и визуализации.
+- [`Card-Issuance-Analysis.ipynb`](Card-Issuance-Analysis.ipynb) — подготовка данных, расчёты, аналитические таблицы и визуализации.
 
